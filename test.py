@@ -1,0 +1,6 @@
+print('hello Python3.10')
+print('hello Python3.10')
+print('hello Python3.10')
+print('hello Python3.10')
+print('hello Python3.10')
+print('hello Python3.10')
